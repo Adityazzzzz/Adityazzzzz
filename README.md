@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/7a/54/76/7a54762be77935f15fbc575fd13ac79c.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm <b>Aditya Singh</b> currently studying in IIIT Bhopal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://art.pixilart.com/sr2f3c8967713aws3.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityazzzzz&label=Profile%20views&color=0e75b6&style=flat" alt="adityazzzzz" /> </p>
 

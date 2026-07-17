@@ -80,60 +80,83 @@
 
 ### 🌍 Open Source Contributions
 
-| Project | Impact & Role |
-| :--- | :--- |
-| **D Language Foundation** | Merged 15+ PRs to the DMD compiler, decoupling semantic analysis routines from AST nodes to reduce circular dependencies and improve C++ interop[cite: 1]. |
-| **LFortran** | Contributed 4+ PRs, resolving parser/tokenizer edge cases and debugging ASR layer mismatches to enhance compiler robustness[cite: 1]. |
-| **PEcAn** | Automated an LLM-assisted PDF extraction pipeline, structuring 10+ agronomic data types into BETYdb-compatible schemas using LangChain and Pydantic[cite: 1]. |
-
----
-
-## 🌟 Featured Projects
-
-<!-- INVISIBLE TABLE GRID FOR PORTFOLIO LAYOUT -->
-<table width="100%" border="0" cellpadding="15">
+<details open>
+  <summary><b>D Language Foundation (DMD Compiler)</b> | <i>15+ Merged PRs improving C++ interop and architecture</i></summary>
+  <br>
+  <ul>
+    <li>Decoupled semantic analysis routines from AST nodes to reduce circular dependencies[cite: 1].</li>
+    <li>Improved C++ interop across the compiler architecture[cite: 1].</li>
+  </ul>
   
-  <!-- ROW 1: GITBRAIN AI -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔹 GitBrain AI</h3>
-      <p><i>GitHub Vector Search & Analysis</i></p>
-      <p>Achieved 100% automated querying across 15,000+ lines of code by architecting a GitHub analysis SaaS with TypeScript, LangChain, and vector embeddings[cite: 1].</p>
-      <p>Increased sync reliability by 40% by crafting a resilient commit polling system with Assembly AI and Appwrite, processing 50+ commits per sync[cite: 1].</p>
-      <p>Implemented a token-based pay-as-you-go billing system with Razorpay, charging Rs 7.99/credit based on per-file token consumption[cite: 1].</p>
-      <code>Next.js</code> <code>LangChain</code> <code>PostgreSQL</code> <code>Razorpay</code>
-      <br><br>
-      <a href="https://github.com/adityazzzzz/gitbrain-ai"><b>View Source Architecture →</b></a>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/adityazzzzz/gitbrain-ai">
-        <img src="https://via.placeholder.com/600x350/161B22/58A6FF?text=GitBrain+AI+UI+Mockup" width="100%" style="border-radius: 8px;" alt="GitBrain AI" />
-      </a>
-    </td>
-  </tr>
+  <b>🔗 Key Pull Requests:</b>
+  <table width="100%">
+    <tr>
+      <td width="80%"><a href="#">PR #XXXX: Add specific PR title/description here</a></td>
+      <td width="20%">🟣 Merged</td>
+    </tr>
+    <tr>
+      <td width="80%"><a href="#">PR #XXXX: Add specific PR title/description here</a></td>
+      <td width="20%">🟣 Merged</td>
+    </tr>
+  </table>
+</details>
 
-  <!-- ROW 2: AI INTERVIEW AGENT -->
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/adityazzzzz/shrutkoe">
-        <img src="https://via.placeholder.com/600x350/161B22/3FB950?text=AI+Interview+Agent" width="100%" style="border-radius: 8px;" alt="AI Interview Agent" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔹 AI Interview Agent</h3>
-      <p><i>Real-Time Voice Interaction Platform</i></p>
-      <p>Scaled to 500+ users by architecting an AI interview platform with smooth load handling via scalable REST endpoints[cite: 1].</p>
-      <p>Tuned 97% evaluation accuracy through data-driven improvement cycles & model prompt tuning[cite: 1].</p>
-      <p>Reduced response latency to 100ms by optimizing caching layers and request concurrency for real-time interactions[cite: 1].</p>
-      <code>TypeScript</code> <code>Next.js</code> <code>Vapi</code> <code>Firebase</code>
-      <br><br>
-      <a href="https://github.com/adityazzzzz/shrutkoe"><b>View Source Architecture →</b></a>
-    </td>
-  </tr>
-</table>
+<details>
+  <summary><b>LFortran</b> | <i>Resolved parser edge cases and ASR layer mismatches</i></summary>
+  <br>
+  <ul>
+    <li>Resolved complex parser and tokenizer edge cases to enhance overall compiler robustness[cite: 1].</li>
+    <li>Debugged ASR (Abstract Semantic Representation) layer mismatches[cite: 1].</li>
+  </ul>
+  
+  <b>🔗 Key Pull Requests:</b>
+  <table width="100%">
+    <tr>
+      <td width="80%"><a href="#">PR #XXXX: Add specific PR title/description here</a></td>
+      <td width="20%">🟣 Merged</td>
+    </tr>
+    <tr>
+      <td width="80%"><a href="#">PR #XXXX: Add specific PR title/description here</a></td>
+      <td width="20%">🟣 Merged</td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><b>PEcAn Project</b> | <i>Automated LLM-assisted PDF extraction pipeline</i></summary>
+  <br>
+  <ul>
+    <li>Automated an LLM-assisted PDF extraction pipeline using LangChain and Pydantic[cite: 1].</li>
+    <li>Structured 10+ complex agronomic data types into BETYdb-compatible schemas[cite: 1].</li>
+  </ul>
+  
+  <b>🔗 Key Pull Requests:</b>
+  <table width="100%">
+    <tr>
+      <td width="80%"><a href="#">PR #XXXX: Add specific PR title/description here</a></td>
+      <td width="20%">🟣 Merged</td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><b>Magma Core</b> | <i>LFX Mentee contributing to core 5G/LTE network architecture</i></summary>
+  <br>
+  <ul>
+    <li>Contributing to the core architecture and development of Magma Core.</li>
+    <li>Collaborating with global maintainers to optimize 5G/LTE network functions and open-source infrastructure.</li>
+  </ul>
+  
+  <b>🔗 Key Pull Requests:</b>
+  <table width="100%">
+    <tr>
+      <td width="80%"><a href="#">PR #XXXX: Add specific PR title/description here</a></td>
+      <td width="20%">🟢 Open</td>
+    </tr>
+  </table>
+</details>
 
 ---
-
 ### `</>` Languages and Tools
 
 <h4 align="center">Languages</h4>

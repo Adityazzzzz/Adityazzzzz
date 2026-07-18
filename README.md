@@ -211,7 +211,11 @@
 
 ### 🏆 Achievements & Problem Solving
 
-*   ⚔️ **Competitive Programming:** Solved 1300+ DSA problems, ranked Expert on Codeforces, Knight on LeetCode, and 4-Star on CodeChef[cite: 1].
+*   ⚔️ **Competitive Programming:** Solved 1300+ DSA problems across LeetCode, Codeforces, CodeChef, and GeeksforGeeks.
+*   **CP Ratings:** Achieved Expert on Codeforces (Max Rating: 1777), Knight on LeetCode (Rating: 2091), and 4 star on CodeChef
+(Rating: 1861).
+*   **Coding Contest:** Ranked 31st among 2,500+ participants in the Optigo Coding Contest.
+*   **LFX Mentorship:** Selected as an LFX Mentee for the Magma Core project, backed by Meta.
 *   🏅 **Coding Club Lead:** Developed a high-performance web brochure for the Arma Code Hackathon, optimizing UX/UI for 990+ participants and driving 56,460+ impressions[cite: 1].
 
 ---

@@ -152,7 +152,10 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
     <td width="65%" valign="top">
-      <p>Contributed 4+ PRs to LFortran, resolving parser/tokenizer edge cases and debugging ASR layer mismatches to enhance compiler robustness[cite: 1]. Addressed edge cases focusing on complex FORMAT strings and escaped quotes[cite: 4].</p>
+      <ul>
+        <li>Contributed 4+ PRs to LFortran, resolving parser/tokenizer edge cases and debugging ASR layer mismatches to enhance compiler robustness</li>
+        <li>Addressed edge cases focusing on complex FORMAT strings and escaped quotes</li>
+      </ul>
     </td>
   </tr>
 
@@ -164,7 +167,7 @@
       <img src="https://img.shields.io/badge/Networking-0052CC?style=flat-square" />
     </td>
     <td width="65%" valign="top">
-      <p>Selected as a mentee under the Linux Foundation (LFX) Mentorship program to work within enterprise-grade open-source infrastructure[cite: 4].</p>
+      <p>Selected as a mentee under the Linux Foundation (LFX) Mentorship program to work within enterprise-grade open-source infrastructure.</p>
     </td>
   </tr>
 

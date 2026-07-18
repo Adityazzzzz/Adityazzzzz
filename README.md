@@ -5,41 +5,39 @@
   <br><br>
 
   <!-- BANNER GIF -->
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Banner" width="1000" style="border-radius: 15px;">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Banner" width="800" style="border-radius: 15px;">
   
   <br><br>
 
-  <h3>⚡ Turning coffee and complex logic into high-performance software. ⚡</h3>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Focus-Software%20Development%20%26%20Open%20Source-success?style=flat-square" alt="Focus" />
-    <img src="https://img.shields.io/badge/Based%20in-Bhopal,%20India-007ACC?style=flat-square" alt="Location" />
-    <img src="https://img.shields.io/badge/Institute-IIIT%20Bhopal-800080?style=flat-square" alt="Institute" />
-  </p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/adityasingh0109/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:adityasinghrajawat2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://leetcode.com/u/adityasinghrajawat2004"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-    <a href="https://codeforces.com/profile/Adityazzzz"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-    <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/adityasinghrjlkr"><img src="https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
-    <img src="https://komarev.com/ghpvc/?username=adityazzzzz&label=Profile%20views&color=00d4ff&style=flat-square" alt="Profile views" />
-  </p>
+ <table width="100%" border="0" cellpadding="10">
+  <tr>
+    <td width="60%" align="left" valign="middle">
+      <h3>⚡ Turning coffee and complex logic into high-performance software. ⚡</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Software%20Development%20%26%20Open%20Source-success?style=flat-square" alt="Focus" />
+        <img src="https://img.shields.io/badge/Based%20in-Bhopal,%20India-007ACC?style=flat-square" alt="Location" />
+        <img src="https://img.shields.io/badge/Institute-IIIT%20Bhopal-800080?style=flat-square" alt="Institute" />
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/adityasingh0109/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="mailto:adityasinghrajawat2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+        <a href="https://leetcode.com/adityasingh"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+        <a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+        <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+        <a href="https://auth.geeksforgeeks.org/user/adityasingh"><img src="https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
+        <img src="https://komarev.com/ghpvc/?username=adityazzzzz&label=Profile%20views&color=00d4ff&style=flat-square" alt="Profile views" />
+      </p>
+      <br>
+      <code>Remember: Dream in logic , build in code</code>
+       <br>
+      <p>Currently pursuing a Bachelor of Technology in Information Technology at IIIT Bhopal (CGPA: 9.01, Expected April 2027)[cite: 1], bridging the gap between high-performance systems and modern product engineering.</p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- THE ANIME AESTHETIC IMAGE -->
-      <img src="https://i.pinimg.com/originals/7a/54/76/7a54762be77935f15fbc575fd13ac79c.jpg" alt="Aesthetic" width="57%" style="border-radius: 15px; max-width: 280px;">
+      <!-- RIGHT SIDE BANNER IMAGE -->
+      <img src="https://i.pinimg.com/originals/7a/54/76/7a54762be77935f15fbc575fd13ac79c.jpg" alt="Aesthetic" width="100%" style="border-radius: 15px; max-width: 280px;">
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <br>
-  <code><h3 style="color: #E2B179;">Remember: Dream in logic , build in code</h3></code>
-  <p>Currently pursuing a Bachelor of Technology in Information Technology at IIIT Bhopal (CGPA: 9.01, Expected April 2027), bridging the gap between high-performance systems and modern product engineering.</p>
-</div>
-
 <hr>
 
 ### 💼 Professional Experience

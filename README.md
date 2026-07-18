@@ -78,83 +78,100 @@
 
 ### 🌍 Open Source Contributions
 
-<details open>
-  <summary><b>D Language Foundation (DMD Compiler)</b> | <i>15+ Merged PRs improving C++ interop and architecture</i></summary>
-  <br>
-  <ul>
-    <li>Decoupled semantic analysis routines from AST nodes to reduce circular dependencies[cite: 1].</li>
-    <li>Improved C++ interop across the compiler architecture[cite: 1].</li>
-  </ul>
+<table width="100%" border="0" cellpadding="15">
   
-  <b>🔗 Key Pull Requests:</b>
-  <table width="100%">
-    <tr>
-      <td width="80%"><a href="#">PR #XXXX: Add specific PR title/description here</a></td>
-      <td width="20%">🟣 Merged</td>
-    </tr>
-    <tr>
-      <td width="80%"><a href="#">PR #XXXX: Add specific PR title/description here</a></td>
-      <td width="20%">🟣 Merged</td>
-    </tr>
-  </table>
-</details>
+  <!-- D LANGUAGE -->
+  <tr>
+    <td width="35%" valign="top">
+      <h4 style="margin: 0;">🔴 D Language Foundation</h4>
+      <p><i>DMD Compiler Architecture</i></p>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <br><br>
+      <b>📄 Proposals & Architecture:</b><br>
+      <a href="#">AST Semantic Decoupling Proposal</a><br>
+      <a href="#">CI/CD Regression Publisher Proposal</a>
+    </td>
+    <td width="65%" valign="top">
+      <ul>
+        <li>Optimized compiler maintainability by contributing 15+ PRs (5 merged) to the DMD compiler, decoupling semantic analysis from AST nodes and reducing circular dependencies.</li>
+        <li>Proposed an architectural refactor to separate semantic routines from AST nodes to enable "DMD-as-a-Library" and reduce compilation overhead.</li>
+        <li>Engineered a fully automated CI/CD benchmarking pipeline using GitHub Actions and PostgreSQL to track spatial and temporal performance regressions.</li>
+      </ul>
+      <blockquote>
+        <b>Proposal:</b> 
+        <a href="https://docs.google.com/document/d/1DQvAxBA_dR20brXqgBq6PdyvksfKneADxj-SJx1r_2w/edit">Aditya Singh Dlang Project Proposal 1.pdf</a> • 
+        <a href="https://docs.google.com/document/d/1UMe6yHYEbx9t-6Q8KQ-E1Z3xyK9OlMCxzrodlICyBaU/edit">Aditya Singh Dlang Project Proposal 2.pdf</a>
+      </blockquote>
+      <blockquote>
+        <b>PRs:</b> 
+        <a href="https://github.com/dlang/dmd/pull/22618">#22618</a> • 
+        <a href="https://github.com/dlang/dmd/pull/22597">#22597</a> • 
+        <a href="https://github.com/dlang/dmd/pull/22521">#22521</a> • 
+        <a href="https://github.com/dlang/dmd/pull/22405">#22405</a> • 
+        <a href="https://github.com/dlang/dmd/pull/22359">#22359</a> • 
+        <a href="https://github.com/dlang/dmd/pull/22358">#22358</a> • 
+        <a href="https://github.com/dlang/dmd/pull/22338">#22338</a> • 
+        <a href="https://github.com/dlang/dmd/pull/22306">#22306</a> • 
+        <a href="https://github.com/dlang/dmd/pull/22302">#22302</a> • 
+        <a href="https://github.com/dlang/dmd/pull/22286">#22286</a> • 
+        <a href="https://github.com/dlang/dmd/pull/22233">#22233</a> • 
+        <a href="https://github.com/dlang/dmd/pull/22226">#22226</a>
+      </blockquote>
+    </td>
+  </tr>
+  
+  <!-- PECAN -->
+  <tr>
+    <td width="35%" valign="top">
+      <h4 style="margin: 0;">🟢 PEcAn Project</h4>
+      <p><i>LLM Data Pipelines</i></p>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+      <br><br>
+      <b>📄 Proposals & Demos:</b><br>
+      <a href="#">LLM-Assisted Extraction Proposal</a><br>
+      <a href="#">Extraction POC Video</a>
+    </td>
+    <td width="65%" valign="top">
+      <ul>
+        <li>Automated an LLM-assisted PDF extraction pipeline, structuring 10+ agronomic data types into BETYdb-compatible schemas using LangChain and Pydantic.</li>
+        <li>Architected a decoupled, two-layer multi-agent architecture (Intermediate Representation and Materialization) to extract agronomic experiments from scientific literature.</li>
+        <li>Developed a Scientist-in-the-Loop Streamlit UI for data review and validation.</li>
+      </ul>
+       <blockquote>
+        <b>Proposal:</b> 
+        <a href="https://docs.google.com/document/d/1IeCyzP4y1Jn4HceqteRv23NGAOlWjf0JzQdRCQyiqiE/edit?usp=sharing">Aditya Singh PEcAn Project Proposal.pdf</a>
+      </blockquote>
+    </td>
+  </tr>
 
-<details>
-  <summary><b>LFortran</b> | <i>Resolved parser edge cases and ASR layer mismatches</i></summary>
-  <br>
-  <ul>
-    <li>Resolved complex parser and tokenizer edge cases to enhance overall compiler robustness[cite: 1].</li>
-    <li>Debugged ASR (Abstract Semantic Representation) layer mismatches[cite: 1].</li>
-  </ul>
-  
-  <b>🔗 Key Pull Requests:</b>
-  <table width="100%">
-    <tr>
-      <td width="80%"><a href="#">PR #XXXX: Add specific PR title/description here</a></td>
-      <td width="20%">🟣 Merged</td>
-    </tr>
-    <tr>
-      <td width="80%"><a href="#">PR #XXXX: Add specific PR title/description here</a></td>
-      <td width="20%">🟣 Merged</td>
-    </tr>
-  </table>
-</details>
+  <!-- LFORTAN -->
+  <tr>
+    <td width="35%" valign="top">
+      <h4 style="margin: 0;">🔵 LFortran</h4>
+      <p><i>Compiler Robustness</i></p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td width="65%" valign="top">
+      <p>Contributed 4+ PRs to LFortran, resolving parser/tokenizer edge cases and debugging ASR layer mismatches to enhance compiler robustness[cite: 1]. Addressed edge cases focusing on complex FORMAT strings and escaped quotes[cite: 4].</p>
+    </td>
+  </tr>
 
-<details>
-  <summary><b>PEcAn Project</b> | <i>Automated LLM-assisted PDF extraction pipeline</i></summary>
-  <br>
-  <ul>
-    <li>Automated an LLM-assisted PDF extraction pipeline using LangChain and Pydantic[cite: 1].</li>
-    <li>Structured 10+ complex agronomic data types into BETYdb-compatible schemas[cite: 1].</li>
-  </ul>
-  
-  <b>🔗 Key Pull Requests:</b>
-  <table width="100%">
-    <tr>
-      <td width="80%"><a href="#">PR #XXXX: Add specific PR title/description here</a></td>
-      <td width="20%">🟣 Merged</td>
-    </tr>
-  </table>
-</details>
+  <!-- MAGMA CORE -->
+  <tr>
+    <td width="35%" valign="top">
+      <h4 style="margin: 0;">🟣 Magma Core</h4>
+      <p><i>LFX Mentorship</i></p>
+      <img src="https://img.shields.io/badge/Networking-0052CC?style=flat-square" />
+    </td>
+    <td width="65%" valign="top">
+      <p>Selected as a mentee under the Linux Foundation (LFX) Mentorship program to work within enterprise-grade open-source infrastructure[cite: 4].</p>
+    </td>
+  </tr>
 
-<details>
-  <summary><b>Magma Core</b> | <i>LFX Mentee contributing to core 5G/LTE network architecture</i></summary>
-  <br>
-  <ul>
-    <li>Contributing to the core architecture and development of Magma Core.</li>
-    <li>Collaborating with global maintainers to optimize 5G/LTE network functions and open-source infrastructure.</li>
-  </ul>
-  
-  <b>🔗 Key Pull Requests:</b>
-  <table width="100%">
-    <tr>
-      <td width="80%"><a href="#">PR #XXXX: Add specific PR title/description here</a></td>
-      <td width="20%">🟢 Open</td>
-    </tr>
-  </table>
-</details>
+</table>
 
 ---
+
 ### `</>` Languages and Tools
 
 <h4 align="center">Languages</h4>

@@ -66,11 +66,11 @@
 </details>
 
 <details>
-  <summary><b>IIIT Bhopal</b> | T&P Cell Coordinator & Teaching Assistant <i>(Current)</i></summary>
+  <summary><b>IIIT Bhopal</b> | T&P Cell Coordinator & Teaching Assistant <i>(Feb 2025 - June 2026)</i></summary>
   <br>
   <ul>
-    <li>Managed placement drives for 200+ students and led the Design team as T&P Cell Coordinator[cite: 1].</li>
-    <li>Assisted 100+ students under Dr. Kamal Das across coursework and projects as a Teaching Assistant[cite: 1].</li>
+    <li>Managed placement drives for 200+ students and led the Design team as T&P Cell Coordinator.</li>
+    <li>Assisted 100+ students under Dr. Kamal Das across coursework and projects as a Teaching Assistant.</li>
   </ul>
 </details>
 
@@ -166,7 +166,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
-<p align="center"><i>Languages derived from[cite: 1]</i></p>
 
 <h4 align="center">Backend & Architecture</h4>
 <p align="center">
@@ -179,7 +178,6 @@
   <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square" />
   <img src="https://img.shields.io/badge/Microservices-326CE5?style=flat-square" />
 </p>
-<p align="center"><i>Backend infrastructure derived from[cite: 1]</i></p>
 
 <h4 align="center">Databases & Storage</h4>
 <p align="center">
@@ -189,7 +187,6 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
-<p align="center"><i>Databases derived from[cite: 1]</i></p>
 
 <h4 align="center">Frameworks</h4>
 <p align="center">
@@ -198,7 +195,6 @@
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
 </p>
-<p align="center"><i>Frameworks derived from[cite: 1]</i></p>
 
 <h4 align="center">Cloud & DevOps</h4>
 <p align="center">
@@ -210,7 +206,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-000000?style=flat-square" />
 </p>
-<p align="center"><i>DevOps tooling derived from[cite: 1]</i></p>
 
 ---
 

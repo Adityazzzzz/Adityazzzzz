@@ -5,7 +5,7 @@
   <br><br>
 
   <!-- BANNER GIF -->
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Banner" width="1200" style="border-radius: 15px;">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Banner" width="1000" style="border-radius: 15px;">
   
   <br><br>
 
@@ -26,9 +26,18 @@
     <a href="https://auth.geeksforgeeks.org/user/adityasinghrjlkr"><img src="https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
     <img src="https://komarev.com/ghpvc/?username=adityazzzzz&label=Profile%20views&color=00d4ff&style=flat-square" alt="Profile views" />
   </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <!-- THE ANIME AESTHETIC IMAGE -->
+      <img src="https://i.pinimg.com/originals/7a/54/76/7a54762be77935f15fbc575fd13ac79c.jpg" alt="Aesthetic" width="57%" style="border-radius: 15px; max-width: 280px;">
+    </td>
+  </tr>
+</table>
 
+<div align="center">
+  <br>
   <code><h3 style="color: #E2B179;">Remember: Dream in logic , build in code</h3></code>
-  <p>Currently pursuing a Bachelor of Technology in Information Technology at IIIT Bhopal (CGPA: 9.01, Expected May 2027), bridging the gap between high-performance systems and modern product engineering.</p>
+  <p>Currently pursuing a Bachelor of Technology in Information Technology at IIIT Bhopal (CGPA: 9.01, Expected April 2027), bridging the gap between high-performance systems and modern product engineering.</p>
 </div>
 
 <hr>

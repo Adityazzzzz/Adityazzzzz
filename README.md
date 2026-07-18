@@ -27,10 +27,8 @@
     <img src="https://komarev.com/ghpvc/?username=adityazzzzz&label=Profile%20views&color=00d4ff&style=flat-square" alt="Profile views" />
   </p>
 
-  <br>
-
   <code><h3 style="color: #E2B179;">Remember: Dream in logic , build in code</h3></code>
-  <p>Currently pursuing a Bachelor of Technology in Information Technology at IIIT Bhopal (CGPA: 9.01, Expected April 2027)[cite: 1], bridging the gap between high-performance systems and modern product engineering.</p>
+  <p>Currently pursuing a Bachelor of Technology in Information Technology at IIIT Bhopal (CGPA: 9.01, Expected May 2027), bridging the gap between high-performance systems and modern product engineering.</p>
 </div>
 
 <hr>
@@ -38,13 +36,13 @@
 ### 💼 Professional Experience
 
 <details open>
-  <summary><b>PhotoGPT</b> | Software Engineer Intern <i>(Jan 2026 - Present)</i></summary>
+  <summary><b>PhotoGPT</b> | Software Engineer Intern <i>(Jan 2026 - July 2026)</i></summary>
   <br>
   <ul>
-    <li>Drove over $10,000 monthly revenue by integrating Kling V3, Nano Banana 2, and Seedream models into PhotoGPT's production pipeline[cite: 1].</li>
-    <li>Scaled the application to handle 300+ simultaneous users across 20 countries[cite: 1].</li>
-    <li>Spearheaded the creation of a 7-layer composable component framework within Remotion for fully programmatic video rendering, enhancing creative control[cite: 1].</li>
-    <li>Cut render latency by 80% (2s to 400ms) by designing a JSON-driven component registry of 500+ components enabling direct fetch-to-render[cite: 1].</li>
+    <li>Powered a product generating $10k+ MRR by building Gen-AI infrastructure integrating Kling V3, Nano Banana 2, and Seedream, serving 300+ concurrent users across 20 countries.</li>
+    <li>Implemented a 7-layer composable rendering framework in Remotion for reusable programmatic video generation.</li>
+    <li>Cut render latency by 80% (2s → 400ms) using a JSON-driven registry of 700+ reusable components.</li>
+    <li>Built an API Gateway with rate limiting and load balancing, serving 10,000+ daily requests at sub-200ms latency.</li>
   </ul>
 </details>
 
@@ -52,8 +50,8 @@
   <summary><b>Fenrir Security</b> | Software Developer Intern <i>(Aug 2025 - Nov 2025)</i></summary>
   <br>
   <ul>
-    <li>Enabled real-time analysis of 1000+ LOC files with a React-Electron security code editor[cite: 1].</li>
-    <li>Diagnosed over 15 critical vulnerability detection rules using an advanced AST-based analysis engine, enhancing overall application security posture[cite: 1].</li>
+    <li>Enabled real-time analysis of 1000+ LOC files with a React-Electron security code editor.</li>
+    <li>Diagnosed over 15 critical vulnerability detection rules using an advanced AST-based analysis engine, enhancing overall application security posture.</li>
   </ul>
 </details>
 
@@ -61,9 +59,9 @@
   <summary><b>2607Labs</b> | Software Engineer Intern <i>(Mar 2025 - June 2025)</i></summary>
   <br>
   <ul>
-    <li>Scaled an AI character system to 10,000+ active users by shipping it with Next.js and FastAPI[cite: 1].</li>
-    <li>Improved processing efficiency by 40% by refactoring 2,000+ lines of the LLM medical report pipeline[cite: 1].</li>
-    <li>Boosted feature adoption by 35% by translating Figma designs into performant Next.js interfaces[cite: 1].</li>
+    <li>Scaled an AI character system to 10,000+ active users by shipping it with Next.js and FastAPI.</li>
+    <li>Improved processing efficiency by 40% by refactoring 2,000+ lines of the LLM medical report pipeline.</li>
+    <li>Boosted feature adoption by 35% by translating Figma designs into performant Next.js interfaces.</li>
   </ul>
 </details>
 

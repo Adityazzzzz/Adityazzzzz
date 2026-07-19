@@ -44,14 +44,18 @@
 ### 💼 Professional Experience
 
 <details open>
-  <summary><b>PhotoGPT</b> | Software Engineer Intern <i>(Jan 2026 - July 2026)</i></summary>
+  <summary><b>PhotoGPT https://www.photogptai.com/</b> | Software Engineer Intern <i>(Jan 2026 - July 2026)</i></summary>
   <br>
   <ul>
-    <li>Powered a product generating $10k+ MRR by building Gen-AI infrastructure integrating Kling V3, Nano Banana 2, and Seedream, serving 300+ concurrent users across 20 countries.</li>
-    <li>Implemented a 7-layer composable rendering framework in Remotion for reusable programmatic video generation.</li>
-    <li>Cut render latency by 80% (2s → 400ms) using a JSON-driven registry of 700+ reusable components.</li>
-    <li>Built an API Gateway with rate limiting and load balancing, serving 10,000+ daily requests at sub-200ms latency.</li>
+    <li><b>Gen-AI & Core Engine:</b> Powered a product generating $10k+ MRR by integrating Kling V3, Nano Banana 2, and Seedream, alongside a 7-layer composable Remotion framework for programmatic video generation.</li>
+    <li><b>Performance Optimization:</b> Cut render latency by 80% (2s → 400ms) using a JSON-driven registry of 700+ components and restructured NoSQL/SQL queries to reduce retrieval latency by 45%.</li>
+    <li><b>Scalable Infrastructure:</b> Engineered a serverless AWS backend (Lambda/S3) and an API Gateway with asynchronous message queues, effortlessly managing 10,000+ daily tasks at sub-200ms latency.</li>
+    <li><b>DevOps & Security:</b> Automated containerized CI/CD pipelines (reducing release times by 60%) and secured generation payloads utilizing JWT-based RBAC and centralized telemetry.</li>
   </ul>
+  <p>
+    <b>Tech Stack:</b> 
+    <code>TypeScript</code> <code>Golang</code> <code>AWS</code> <code>Docker</code> <code>Remotion</code> <code>LangChain</code> <code>RAG</code> <code>JSON Components</code>
+  </p>
 </details>
 
 <details>
@@ -186,22 +190,46 @@
 
 <!-- INVISIBLE TABLE GRID FOR PORTFOLIO LAYOUT -->
 <table width="100%" border="0" cellpadding="15">
+ <!-- ROW 3 : VECTOR INDEX -->
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://vector-index-docs.vercel.app/">
+        <img width="1028" height="868" alt="image" src="https://github.com/user-attachments/assets/f1fab6db-7c37-48f3-bfea-9556f2fd4b89" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔹 Vector Indexx</h3>
+      <p><i>Real-Time Voice Interaction Platform</i></p>
+      <p>A vector similarity search engine, built from the ground up.
+Brute-force, IVF, and HNSW nearest-neighbor indexes implemented in C++ - not wrapped around FAISS or any existing library - and benchmarked against a brute-force oracle at dataset sizes up to 1,000,000 vectors.</p>
+      <code>C++</code> <code>.hpp</code> <code>CMake</code>
+      <br><br>
+      <a href="https://github.com/Adityazzzzz/Vector-Index-Infra"><b>View Source Architecture →</b></a>
+    </td>
+  </tr>
   
   <!-- ROW 1: GITBRAIN AI -->
   <tr>
     <td width="50%" valign="top">
       <h3>🔹 GitBrain AI</h3>
       <p><i>GitHub Vector Search & Analysis</i></p>
-      <p>Achieved 100% automated querying across 15,000+ lines of code by architecting a GitHub analysis SaaS with TypeScript, LangChain, and vector embeddings[cite: 1].</p>
-      <p>Increased sync reliability by 40% by crafting a resilient commit polling system with Assembly AI and Appwrite, processing 50+ commits per sync[cite: 1].</p>
-      <p>Implemented a token-based pay-as-you-go billing system with Razorpay, charging Rs 7.99/credit based on per-file token consumption[cite: 1].</p>
-      <code>Next.js</code> <code>LangChain</code> <code>PostgreSQL</code> <code>Razorpay</code>
+      <p>GitBrain AI is an AI-powered GitHub code intelligence platform that enables developers to search, understand, and interact with large repositories using natural language. It combines RAG, vector search, semantic code indexing, and real-time collaboration to make navigating million-line codebases fast and intuitive.</p>
+        <code>Next.js</code>
+        <code>React</code>
+        <code>TypeScript</code>
+        <code>tRPC</code>
+        <code>Node.js</code>
+        <code>PostgreSQL</code>
+        <code>pgvector</code>
+        <code>Prisma</code><code>LangChain</code><code>Google Gemini</code><code>Appwrite</code><code>WebRTC</code><code>GitHub API</code>
+        <code>Razorpay</code><code>Tailwind CSS</code>
       <br><br>
-      <a href="https://github.com/adityazzzzz/gitbrain-ai"><b>View Source Architecture →</b></a>
+      <a href="https://github.com/Adityazzzzz/GithubSaas"><b>View Source Architecture →</b></a>
     </td>
     <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/adityazzzzz/gitbrain-ai">
-        <img src="https://via.placeholder.com/600x350/161B22/58A6FF?text=GitBrain+AI+UI+Mockup" width="100%" style="border-radius: 8px;" alt="GitBrain AI" />
+      <a href="[https://github.com/adityazzzzz/gitbrain-ai](https://gitstudio.framer.ai/)">
+        <img width="1899" height="910" alt="image" src="https://github.com/user-attachments/assets/5731882d-0aab-4d66-855f-18b2fc7618b6" />
+        <img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/5a787b68-a295-41d0-9fe7-d6e4b80655e9" />
       </a>
     </td>
   </tr>
@@ -210,18 +238,25 @@
   <tr>
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/adityazzzzz/shrutkoe">
-        <img src="https://via.placeholder.com/600x350/161B22/3FB950?text=AI+Interview+Agent" width="100%" style="border-radius: 8px;" alt="AI Interview Agent" />
+        <img width="1521" height="906" alt="image" src="https://github.com/user-attachments/assets/451457b1-402c-451d-b2dc-89851122f403" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>🔹 AI Interview Agent</h3>
       <p><i>Real-Time Voice Interaction Platform</i></p>
-      <p>Scaled to 500+ users by architecting an AI interview platform with smooth load handling via scalable REST endpoints[cite: 1].</p>
-      <p>Tuned 97% evaluation accuracy through data-driven improvement cycles & model prompt tuning[cite: 1].</p>
-      <p>Reduced response latency to 100ms by optimizing caching layers and request concurrency for real-time interactions[cite: 1].</p>
-      <code>TypeScript</code> <code>Next.js</code> <code>Vapi</code> <code>Firebase</code>
+      <p>AI Interviewer is a real-time mock interview platform that conducts technical interviews using Vapi voice agents. It simulates human-like interview conversations, generates adaptive follow-up questions, evaluates candidate responses, and provides instant AI-powered feedback to help users prepare for software engineering interviews.</p>
+        <code>Next.js</code>
+        <code>React</code>
+        <code>TypeScript</code>
+        <code>Vapi AI</code>
+        <code>OpenAI</code>
+        <code>Firebase</code>
+        <code>Tailwind CSS</code>
+        <code>shadcn/ui</code>
+        <code>Zod</code>
+        <code>Vercel</code>
       <br><br>
-      <a href="https://github.com/adityazzzzz/shrutkoe"><b>View Source Architecture →</b></a>
+      <a href="https://github.com/Adityazzzzz/shrut-koe-new"><b>View Source Architecture →</b></a>
     </td>
   </tr>
 </table>

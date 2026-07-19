@@ -2,8 +2,8 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs automatically every 24 hours
-  workflow_dispatch: # Allows you to run it manually whenever you want
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -17,11 +17,11 @@ jobs:
         with:
           token: ${{ secrets.PAT_1 }}
           card: "stats"
-          # Adding the styling parameters you used previously
+          # Ensure these are passed as simple strings
           theme: "react"
+          bg_color: "20232a"
           show_icons: "true"
           hide_border: "true"
-          bg_color: "20232a"
 
       - name: Generate Top Languages Card
         uses: stats-organization/github-readme-stats-action@main
@@ -29,9 +29,9 @@ jobs:
           token: ${{ secrets.PAT_1 }}
           card: "top-langs"
           theme: "react"
+          bg_color: "20232a"
           layout: "compact"
           hide_border: "true"
-          bg_color: "20232a"
       
       - name: Commit and Push SVGs
         run: |

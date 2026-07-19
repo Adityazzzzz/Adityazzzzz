@@ -17,21 +17,16 @@ jobs:
         with:
           token: ${{ secrets.PAT_1 }}
           card: "stats"
-          # Ensure these are passed as simple strings
-          theme: "react"
-          bg_color: "20232a"
-          show_icons: "true"
-          hide_border: "true"
+          # Passing all styles in a single query string forces the action to use them
+          options: "theme=react&bg_color=151515&show_icons=true&hide_border=true"
 
       - name: Generate Top Languages Card
         uses: stats-organization/github-readme-stats-action@main
         with:
           token: ${{ secrets.PAT_1 }}
           card: "top-langs"
-          theme: "react"
-          bg_color: "20232a"
-          layout: "compact"
-          hide_border: "true"
+          # Removed layout=compact to match your friend's dotted list style
+          options: "theme=react&bg_color=151515&hide_border=true"
       
       - name: Commit and Push SVGs
         run: |

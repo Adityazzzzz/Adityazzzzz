@@ -204,7 +204,7 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔹 Vector Indexx</h3>
+      <h3>🔹 Vector Index</h3>
       <p><i>Real-Time Voice Interaction Platform</i></p>
       <p>A vector similarity search engine, built from the ground up.
 Brute-force, IVF, and HNSW nearest-neighbor indexes implemented in C++ - not wrapped around FAISS or any existing library - and benchmarked against a brute-force oracle at dataset sizes up to 1,000,000 vectors.</p>

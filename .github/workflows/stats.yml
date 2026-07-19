@@ -12,11 +12,26 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Stats
+      - name: Generate Main Stats Card
         uses: stats-organization/github-readme-stats-action@main
         with:
           token: ${{ secrets.PAT_1 }}
-          # The action will output the SVG files into your repository
+          card: "stats"
+          # Adding the styling parameters you used previously
+          theme: "react"
+          show_icons: "true"
+          hide_border: "true"
+          bg_color: "20232a"
+
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@main
+        with:
+          token: ${{ secrets.PAT_1 }}
+          card: "top-langs"
+          theme: "react"
+          layout: "compact"
+          hide_border: "true"
+          bg_color: "20232a"
       
       - name: Commit and Push SVGs
         run: |

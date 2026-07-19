@@ -3,19 +3,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;Open+Source+Architect;Competitive+Programmer" alt="Typing SVG" />
 
   <br><br>
-
   <!-- 3-COLUMN LAYOUT MATRIX -->
-  <table width="100%" border="0" cellpadding="10">
+  <table width="100%" border="0" cellpadding="5">
     <tr>
       <!-- LEFT BANNER -->
-      <td width="25%" align="center" valign="middle">
-        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Banner" width="100%" style="border-radius: 15px; max-width: 300px;">
+      <td width="30%" align="center" valign="middle">
+        <!-- Swap this URL with your new Coder Illustration -->
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Banner" width="100%" style="border-radius: 10px;">
       </td>
       <!-- MIDDLE TEXT & BADGES -->
-      <td width="50%" align="center" valign="middle">
-        <h3>⚡Turning coffee and complex logic into high-performance software⚡</h3>
+      <td width="40%" align="center" valign="middle">
+        <h4>⚡ Turning coffee and complex logic into high-performance software. ⚡</h4>
         <p>
-          <img src="https://img.shields.io/badge/Focus-Software%20Development%20%26%20Open%20Source-success?style=flat-square" alt="Focus" />
+          <img src="https://img.shields.io/badge/Focus-Software%20Development%20%26%20Open%20Source-success?style=flat-square" alt="Focus" /><br>
           <img src="https://img.shields.io/badge/Based%20in-Bhopal,%20India-007ACC?style=flat-square" alt="Location" />
           <img src="https://img.shields.io/badge/Institute-IIIT%20Bhopal-800080?style=flat-square" alt="Institute" />
         </p>
@@ -34,12 +34,12 @@
         <br>
         <code>Remember: Dream in logic , build in code</code>
         <br><br>
-        <p>Currently pursuing a Bachelor of Technology in Information Technology at IIIT Bhopal (CGPA: 9.01, Expected May 2027), bridging the gap between high-performance systems and modern product engineering.</p>
+        <p>Currently pursuing a <b>Bachelor of Technology in Information Technology at IIIT Bhopal <br> (CGPA: 9.01, Expected April 2027)</b>, <br>bridging the gap between high-performance systems and modern product engineering.</p>
       </td>
       <!-- RIGHT BANNER -->
-      <td width="25%" align="center" valign="middle">
-        <!-- You can swap this URL with the collage image URL from your screenshot if you have it hosted -->
-        <img src="https://i.pinimg.com/originals/7a/54/76/7a54762be77935f15fbc575fd13ac79c.jpg" alt="Aesthetic Banner" width="100%" style="border-radius: 15px; max-width: 300px;">
+      <td width="30%" align="center" valign="middle">
+        <!-- Swap this URL with your Dark Quote Collage -->
+        <img src="https://i.pinimg.com/originals/7a/54/76/7a54762be77935f15fbc575fd13ac79c.jpg" alt="Aesthetic Banner" width="100%" style="border-radius: 10px;">
       </td>
     </tr>
   </table>

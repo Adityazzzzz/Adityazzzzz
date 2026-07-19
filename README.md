@@ -337,22 +337,13 @@ Brute-force, IVF, and HNSW nearest-neighbor indexes implemented in C++ - not wra
 ### 🐙 Github Stats
 
 <div align="center">
-  <!-- Top Row: Overview & Languages -->
+  <!-- Top Row: Overview & Languages USING LOCAL ACTION GENERATED SVGS -->
   <a href="https://github.com/adityazzzzz">
-    <img src="https://github-readme-stats.vercel.app/api?username=adityazzzzz&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=20232a" alt="GitHub Stats" width="48%" />
+    <img src="./profile/stats.svg" alt="GitHub Stats" width="48%" />
   </a>
-  <a href="https://github.com/adityazzzzz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityazzzzz&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=20232a" alt="Top Languages" width="48%" />
-  </a>
-  
-  <br><br>
-
-  <!-- Middle Row: GitHub Streak -->
-  <a href="https://github.com/adityazzzzz">
+   <a href="https://github.com/adityazzzzz">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityazzzzz&theme=react&background=20232a&hide_border=true" alt="GitHub Streak" width="60%" />
   </a>
-  
-  <br><br>
 
   <!-- Bottom Row: Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityazzzzz&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph" />

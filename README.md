@@ -337,7 +337,7 @@ Brute-force, IVF, and HNSW nearest-neighbor indexes implemented in C++ - not wra
 (Rating: 1861).
 *   **Coding Contest:** Ranked 31st among 2,500+ participants in the Optigo Coding Contest.
 *   **LFX Mentorship:** Selected as an LFX Mentee for the Magma Core project, backed by Meta.
-*   🏅 **Coding Club Lead:** Developed a high-performance web brochure for the Arma Code Hackathon, optimizing UX/UI for 990+ participants and driving 56,460+ impressions[cite: 1].
+*   🏅 **Coding Club Lead:** Developed a high-performance web brochure for the Arma Code Hackathon, optimizing UX/UI for 990+ participants and driving 56,460+ impressions.
 
 ---
 

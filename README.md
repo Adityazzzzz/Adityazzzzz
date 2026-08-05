@@ -22,11 +22,11 @@
         <p>
           <a href="https://www.linkedin.com/in/adityasingh0109/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
           <a href="mailto:adityasinghrajawat2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-          <a href="https://leetcode.com/adityasingh"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+          <a href="https://leetcode.com/u/adityasinghrajawat2004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
           <br>
-          <a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-          <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-          <a href="https://auth.geeksforgeeks.org/user/adityasingh"><img src="https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
+          <a href="https://codeforces.com/profile/Adityazzzz"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+          <a href="https://www.codechef.com/users/adityazzzz"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+          <a href="https://www.geeksforgeeks.org/profile/adityasinghrjlkr"><img src="https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
         </p>
         <p>
           <img src="https://komarev.com/ghpvc/?username=adityazzzzz&label=Profile%20views&color=00d4ff&style=flat-square" alt="Profile views" />

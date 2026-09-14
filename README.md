@@ -1,6 +1,6 @@
 <div align="center">
   <!-- GLOWING BLUE TYPEWRITER EFFECT -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;Open+Source+Architect;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;Open+Source+Architect;Competitive+Programmer" alt="Typing SVG"/>
 
   <br><br>
   <!-- 3-COLUMN LAYOUT MATRIX -->

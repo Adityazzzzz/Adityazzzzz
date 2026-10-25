@@ -4,7 +4,7 @@
 
   <br><br>
   <!-- 3-COLUMN LAYOUT MATRIX -->
-  <table width="100%" border="0" cellpadding="4">
+  <table width="100%" border="0" cellpadding="3">
     <tr>
       <!-- LEFT BANNER -->
       <td width="30%" align="center" valign="middle">

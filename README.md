@@ -13,7 +13,7 @@
       </td>
       <!-- MIDDLE TEXT & BADGES -->
       <td width="40%" align="center" valign="middle">
-        <h4>⚡ Turning coffee and complex logic into high-performance software. ⚡</h4>
+        <h4>⚡ Turning coffee and complex logic into high-performance software ⚡</h4>
         <p>
           <img src="https://img.shields.io/badge/Focus-Software%20Development%20%26%20Open%20Source-success?style=flat-square" alt="Focus" /><br>
           <img src="https://img.shields.io/badge/Based%20in-Bhopal,%20India-007ACC?style=flat-square" alt="Location" />

@@ -6,7 +6,7 @@
   <!-- 3-COLUMN LAYOUT MATRIX -->
   <table width="100%" border="0" cellpadding="5">
     <tr>
-      <!-- LEFT BANNER -->
+      <!-- LEFT BANNER >
       <td width="30%" align="center" valign="middle">
         <!-- Swap this URL with your new Coder Illustration -->
         <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Banner" width="100%" style="border-radius: 10px;">

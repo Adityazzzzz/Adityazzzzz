@@ -21,7 +21,7 @@
         </p>
         <p>
           <a href="https://www.linkedin.com/in/adityasingh0109/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-          <a href="mailto:adityasinghrajawat2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+          <a href="mailto:adityasinghrajawat2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
           <a href="https://leetcode.com/u/adityasinghrajawat2004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
           <br>
           <a href="https://codeforces.com/profile/Adityazzzz"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
